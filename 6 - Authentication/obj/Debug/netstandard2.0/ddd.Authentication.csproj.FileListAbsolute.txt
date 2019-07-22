@@ -1,0 +1,8 @@
+D:\vscode\ddd\SqlServer\6 - Authentication\bin\Debug\netstandard2.0\ddd.Authentication.deps.json
+D:\vscode\ddd\SqlServer\6 - Authentication\bin\Debug\netstandard2.0\ddd.Authentication.dll
+D:\vscode\ddd\SqlServer\6 - Authentication\bin\Debug\netstandard2.0\ddd.Authentication.pdb
+D:\vscode\ddd\SqlServer\6 - Authentication\obj\Debug\netstandard2.0\ddd.Authentication.csproj.CoreCompileInputs.cache
+D:\vscode\ddd\SqlServer\6 - Authentication\obj\Debug\netstandard2.0\ddd.Authentication.AssemblyInfoInputs.cache
+D:\vscode\ddd\SqlServer\6 - Authentication\obj\Debug\netstandard2.0\ddd.Authentication.AssemblyInfo.cs
+D:\vscode\ddd\SqlServer\6 - Authentication\obj\Debug\netstandard2.0\ddd.Authentication.dll
+D:\vscode\ddd\SqlServer\6 - Authentication\obj\Debug\netstandard2.0\ddd.Authentication.pdb

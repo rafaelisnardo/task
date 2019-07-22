@@ -1,0 +1,16 @@
+d:\vscode\ddd\4 - Infra\4.2 - CrossCutting\bin\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.deps.json
+d:\vscode\ddd\4 - Infra\4.2 - CrossCutting\bin\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.dll
+d:\vscode\ddd\4 - Infra\4.2 - CrossCutting\bin\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.pdb
+d:\vscode\ddd\4 - Infra\4.2 - CrossCutting\obj\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+d:\vscode\ddd\4 - Infra\4.2 - CrossCutting\obj\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.AssemblyInfoInputs.cache
+d:\vscode\ddd\4 - Infra\4.2 - CrossCutting\obj\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.AssemblyInfo.cs
+d:\vscode\ddd\4 - Infra\4.2 - CrossCutting\obj\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.dll
+d:\vscode\ddd\4 - Infra\4.2 - CrossCutting\obj\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.pdb
+D:\vscode\ddd\SqlServer\4 - Infra\4.2 - CrossCutting\bin\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.deps.json
+D:\vscode\ddd\SqlServer\4 - Infra\4.2 - CrossCutting\bin\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.dll
+D:\vscode\ddd\SqlServer\4 - Infra\4.2 - CrossCutting\bin\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.pdb
+D:\vscode\ddd\SqlServer\4 - Infra\4.2 - CrossCutting\obj\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+D:\vscode\ddd\SqlServer\4 - Infra\4.2 - CrossCutting\obj\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.AssemblyInfoInputs.cache
+D:\vscode\ddd\SqlServer\4 - Infra\4.2 - CrossCutting\obj\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.AssemblyInfo.cs
+D:\vscode\ddd\SqlServer\4 - Infra\4.2 - CrossCutting\obj\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.dll
+D:\vscode\ddd\SqlServer\4 - Infra\4.2 - CrossCutting\obj\Debug\netcoreapp2.2\ddd.Infra.CrossCutting.pdb

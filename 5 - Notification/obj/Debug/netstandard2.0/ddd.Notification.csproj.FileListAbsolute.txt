@@ -1,0 +1,8 @@
+D:\vscode\ddd\SqlServer\5 - Notification\bin\Debug\netstandard2.0\ddd.Notification.deps.json
+D:\vscode\ddd\SqlServer\5 - Notification\bin\Debug\netstandard2.0\ddd.Notification.dll
+D:\vscode\ddd\SqlServer\5 - Notification\bin\Debug\netstandard2.0\ddd.Notification.pdb
+D:\vscode\ddd\SqlServer\5 - Notification\obj\Debug\netstandard2.0\ddd.Notification.csproj.CoreCompileInputs.cache
+D:\vscode\ddd\SqlServer\5 - Notification\obj\Debug\netstandard2.0\ddd.Notification.AssemblyInfoInputs.cache
+D:\vscode\ddd\SqlServer\5 - Notification\obj\Debug\netstandard2.0\ddd.Notification.AssemblyInfo.cs
+D:\vscode\ddd\SqlServer\5 - Notification\obj\Debug\netstandard2.0\ddd.Notification.dll
+D:\vscode\ddd\SqlServer\5 - Notification\obj\Debug\netstandard2.0\ddd.Notification.pdb

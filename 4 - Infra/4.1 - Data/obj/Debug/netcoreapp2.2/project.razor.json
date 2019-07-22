@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\vscode\\ddd\\4 - Infra\\4.1 - Data\\ddd.Infra.Data.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

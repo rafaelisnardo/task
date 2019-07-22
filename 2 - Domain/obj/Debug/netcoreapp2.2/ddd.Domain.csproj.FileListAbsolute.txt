@@ -1,0 +1,17 @@
+d:\vscode\ddd\2 - Domain\bin\Debug\netcoreapp2.2\ddd.Domain.deps.json
+d:\vscode\ddd\2 - Domain\bin\Debug\netcoreapp2.2\ddd.Domain.dll
+d:\vscode\ddd\2 - Domain\bin\Debug\netcoreapp2.2\ddd.Domain.pdb
+d:\vscode\ddd\2 - Domain\obj\Debug\netcoreapp2.2\ddd.Domain.csproj.CoreCompileInputs.cache
+d:\vscode\ddd\2 - Domain\obj\Debug\netcoreapp2.2\ddd.Domain.AssemblyInfoInputs.cache
+d:\vscode\ddd\2 - Domain\obj\Debug\netcoreapp2.2\ddd.Domain.AssemblyInfo.cs
+d:\vscode\ddd\2 - Domain\obj\Debug\netcoreapp2.2\ddd.Domain.dll
+d:\vscode\ddd\2 - Domain\obj\Debug\netcoreapp2.2\ddd.Domain.pdb
+d:\vscode\ddd\2 - Domain\obj\Debug\netcoreapp2.2\ddd.Domain.csprojAssemblyReference.cache
+D:\vscode\ddd\SqlServer\2 - Domain\bin\Debug\netcoreapp2.2\ddd.Domain.deps.json
+D:\vscode\ddd\SqlServer\2 - Domain\bin\Debug\netcoreapp2.2\ddd.Domain.dll
+D:\vscode\ddd\SqlServer\2 - Domain\bin\Debug\netcoreapp2.2\ddd.Domain.pdb
+D:\vscode\ddd\SqlServer\2 - Domain\obj\Debug\netcoreapp2.2\ddd.Domain.csproj.CoreCompileInputs.cache
+D:\vscode\ddd\SqlServer\2 - Domain\obj\Debug\netcoreapp2.2\ddd.Domain.AssemblyInfoInputs.cache
+D:\vscode\ddd\SqlServer\2 - Domain\obj\Debug\netcoreapp2.2\ddd.Domain.AssemblyInfo.cs
+D:\vscode\ddd\SqlServer\2 - Domain\obj\Debug\netcoreapp2.2\ddd.Domain.dll
+D:\vscode\ddd\SqlServer\2 - Domain\obj\Debug\netcoreapp2.2\ddd.Domain.pdb
